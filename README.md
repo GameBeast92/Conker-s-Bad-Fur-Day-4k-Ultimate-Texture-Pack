@@ -4,7 +4,7 @@ You could say it's about 30% done.
 
 **VERSION COMPATIBILITY**
 --------------------------
-It works for both the Censored and Unscensored US version of the game.
+It works with both the Censored and Unscensored US versions of the game. And also with PAL regions.
 
 **DOWNLOAD LINK**
 --------------------------
